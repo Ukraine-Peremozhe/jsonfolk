@@ -1,0 +1,19 @@
+{
+	"songs": [
+		{
+			"name":"Akh, Ukraine",
+			"image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+			"link":"https://youtu.be/XsP0iwGeyrI"
+		},
+		{
+			"name":"A Dug Up Grave",
+			"image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+			"link":"https://youtu.be/8jVZA8RYldA"
+		},
+		{
+			"name":"Across the Blue Sea",
+			"image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+			"link":"https://youtu.be/aRPdGvo7epA"
+		}
+	]
+}
